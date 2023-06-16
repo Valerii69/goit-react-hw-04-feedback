@@ -17,7 +17,7 @@ export const Button = styled.button`
   font-style: bold;
   /* background: transparent; */
   border: ${colors.border};
-  border-radius: 18px;
+  border-radius: 5px;
   outline: 0;
   text-align: center;
   text-decoration: none;
